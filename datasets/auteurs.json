@@ -1,0 +1,302 @@
+[
+    {
+        "id_auteur": 1,
+        "nom_auteur": "Hélène Fontaine",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1956-11-10"
+    },
+    {
+        "id_auteur": 2,
+        "nom_auteur": "Nathalie Alves",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1973-02-11"
+    },
+    {
+        "id_auteur": 3,
+        "nom_auteur": "Nicolas Verdier",
+        "nationalite": "Marocaine",
+        "date_naissance": "1960-02-08"
+    },
+    {
+        "id_auteur": 4,
+        "nom_auteur": "David Descamps Le Nguyen",
+        "nationalite": "Française",
+        "date_naissance": "1974-01-27"
+    },
+    {
+        "id_auteur": 5,
+        "nom_auteur": "Alex Chartier",
+        "nationalite": "Française",
+        "date_naissance": "1965-05-13"
+    },
+    {
+        "id_auteur": 6,
+        "nom_auteur": "Élodie Ruiz de Diallo",
+        "nationalite": "Française",
+        "date_naissance": "1989-11-03"
+    },
+    {
+        "id_auteur": 7,
+        "nom_auteur": "Isaac Leroux-Blanchard",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1960-10-30"
+    },
+    {
+        "id_auteur": 8,
+        "nom_auteur": "Bernard Bodin du Maréchal",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1951-03-08"
+    },
+    {
+        "id_auteur": 9,
+        "nom_auteur": "Julie Le Marchal",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1987-05-15"
+    },
+    {
+        "id_auteur": 10,
+        "nom_auteur": "Tristan de la Fabre",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1966-03-31"
+    },
+    {
+        "id_auteur": 11,
+        "nom_auteur": "Gilles Alves",
+        "nationalite": "Algérienne",
+        "date_naissance": "1960-05-05"
+    },
+    {
+        "id_auteur": 12,
+        "nom_auteur": "Raymond Lebrun",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1969-03-15"
+    },
+    {
+        "id_auteur": 13,
+        "nom_auteur": "Manon de la Bouvet",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1957-07-06"
+    },
+    {
+        "id_auteur": 14,
+        "nom_auteur": "Henri De Oliveira de la Étienne",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1967-03-28"
+    },
+    {
+        "id_auteur": 15,
+        "nom_auteur": "Margaud Camus",
+        "nationalite": "Française",
+        "date_naissance": "1982-02-20"
+    },
+    {
+        "id_auteur": 16,
+        "nom_auteur": "Madeleine Pierre",
+        "nationalite": "Française",
+        "date_naissance": "1962-08-31"
+    },
+    {
+        "id_auteur": 17,
+        "nom_auteur": "Bernard Lacombe",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1959-02-10"
+    },
+    {
+        "id_auteur": 18,
+        "nom_auteur": "Constance Gautier",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1958-04-08"
+    },
+    {
+        "id_auteur": 19,
+        "nom_auteur": "Julien Launay",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1989-03-04"
+    },
+    {
+        "id_auteur": 20,
+        "nom_auteur": "Grégoire Bernier-Gaudin",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1969-12-07"
+    },
+    {
+        "id_auteur": 21,
+        "nom_auteur": "Arthur Petitjean de la Gilles",
+        "nationalite": "Française",
+        "date_naissance": "1993-12-09"
+    },
+    {
+        "id_auteur": 22,
+        "nom_auteur": "Xavier Delaunay",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1950-06-18"
+    },
+    {
+        "id_auteur": 23,
+        "nom_auteur": "Stéphane Marques",
+        "nationalite": "Algérienne",
+        "date_naissance": "1975-03-09"
+    },
+    {
+        "id_auteur": 24,
+        "nom_auteur": "Georges Ruiz du Regnier",
+        "nationalite": "Française",
+        "date_naissance": "1964-04-02"
+    },
+    {
+        "id_auteur": 25,
+        "nom_auteur": "Xavier Pierre",
+        "nationalite": "Algérienne",
+        "date_naissance": "1953-09-24"
+    },
+    {
+        "id_auteur": 26,
+        "nom_auteur": "Chantal Thibault-Legros",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1981-03-23"
+    },
+    {
+        "id_auteur": 27,
+        "nom_auteur": "Alfred Poirier",
+        "nationalite": "Marocaine",
+        "date_naissance": "1984-03-13"
+    },
+    {
+        "id_auteur": 28,
+        "nom_auteur": "Patrick Marty",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1965-12-20"
+    },
+    {
+        "id_auteur": 29,
+        "nom_auteur": "Isaac Lacombe de Rousset",
+        "nationalite": "Française",
+        "date_naissance": "1979-02-11"
+    },
+    {
+        "id_auteur": 30,
+        "nom_auteur": "Nicolas du Camus",
+        "nationalite": "Algérienne",
+        "date_naissance": "1975-02-22"
+    },
+    {
+        "id_auteur": 31,
+        "nom_auteur": "Andrée Laurent",
+        "nationalite": "Marocaine",
+        "date_naissance": "1977-08-21"
+    },
+    {
+        "id_auteur": 32,
+        "nom_auteur": "Théodore Pineau",
+        "nationalite": "Marocaine",
+        "date_naissance": "1950-12-29"
+    },
+    {
+        "id_auteur": 33,
+        "nom_auteur": "Auguste Perez de Camus",
+        "nationalite": "Française",
+        "date_naissance": "1989-03-14"
+    },
+    {
+        "id_auteur": 34,
+        "nom_auteur": "Emmanuel de Munoz",
+        "nationalite": "Française",
+        "date_naissance": "1982-07-27"
+    },
+    {
+        "id_auteur": 35,
+        "nom_auteur": "Thierry Lesage",
+        "nationalite": "Marocaine",
+        "date_naissance": "1973-04-16"
+    },
+    {
+        "id_auteur": 36,
+        "nom_auteur": "Paulette Tanguy",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1986-02-23"
+    },
+    {
+        "id_auteur": 37,
+        "nom_auteur": "Adélaïde Ruiz",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1956-07-22"
+    },
+    {
+        "id_auteur": 38,
+        "nom_auteur": "Laurent Pierre",
+        "nationalite": "Algérienne",
+        "date_naissance": "1965-06-26"
+    },
+    {
+        "id_auteur": 39,
+        "nom_auteur": "Cécile Coste",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1992-03-01"
+    },
+    {
+        "id_auteur": 40,
+        "nom_auteur": "Gilles Poulain Le Bègue",
+        "nationalite": "Marocaine",
+        "date_naissance": "1962-08-05"
+    },
+    {
+        "id_auteur": 41,
+        "nom_auteur": "Zacharie-Isaac Hardy",
+        "nationalite": "Marocaine",
+        "date_naissance": "1961-01-18"
+    },
+    {
+        "id_auteur": 42,
+        "nom_auteur": "Élodie Boulay",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1974-01-17"
+    },
+    {
+        "id_auteur": 43,
+        "nom_auteur": "Alexandria Muller",
+        "nationalite": "Marocaine",
+        "date_naissance": "1968-11-27"
+    },
+    {
+        "id_auteur": 44,
+        "nom_auteur": "Maryse de Dumont",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1984-04-02"
+    },
+    {
+        "id_auteur": 45,
+        "nom_auteur": "Jean-Jacques Rey",
+        "nationalite": "Algérienne",
+        "date_naissance": "1983-11-13"
+    },
+    {
+        "id_auteur": 46,
+        "nom_auteur": "Guy Evrard",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1958-02-27"
+    },
+    {
+        "id_auteur": 47,
+        "nom_auteur": "Vincent-Émile Delattre",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1951-10-16"
+    },
+    {
+        "id_auteur": 48,
+        "nom_auteur": "Dorothée Rossi",
+        "nationalite": "Algérienne",
+        "date_naissance": "1963-11-16"
+    },
+    {
+        "id_auteur": 49,
+        "nom_auteur": "Lucas Pichon-Rey",
+        "nationalite": "Tunisienne",
+        "date_naissance": "1958-02-20"
+    },
+    {
+        "id_auteur": 50,
+        "nom_auteur": "François Aubry",
+        "nationalite": "Égyptienne",
+        "date_naissance": "1977-05-14"
+    }
+]

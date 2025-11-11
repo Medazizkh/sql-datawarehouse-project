@@ -1,0 +1,201 @@
+id_livre,titre,id_auteur,categorie,prix_dt
+1,Noir retrouver servir,19,Économie,79.15
+2,Facile avec,24,Histoire,31.15
+3,Le nu posséder,5,Informatique,82.74
+4,Voici regretter million court,50,Science,118.37
+5,Bouche bois vrai,15,Économie,21.11
+6,Colline éprouver,18,Art,79.93
+7,Avec réveiller,24,Littérature,50.72
+8,Chair mort,14,Enfant,39.37
+9,Tenir combien fixe,44,Enfant,17.85
+10,Autre vouloir rêve vaste,41,Littérature,68.76
+11,Et devoir même,16,Littérature,60.85
+12,Nouveau,18,Enfant,85.7
+13,Visible erreur,15,Enfant,45.67
+14,Renverser ministre,50,Économie,16.15
+15,Roi besoin,3,Économie,44.7
+16,Point divers résoudre,18,Informatique,33.21
+17,Moi chose oeuvre,37,Enfant,44.61
+18,Prétendre apprendre,42,Art,53.52
+19,Épaule avis croiser travailler,42,Art,25.72
+20,Nourrir endormir volonté,9,Littérature,91.95
+21,Doucement apparence,35,Science,92.17
+22,Violence noir cependant,28,Histoire,53.93
+23,Feu fier,15,Littérature,66.05
+24,Tout demain payer,6,Économie,15.18
+25,Troubler entier joli,8,Littérature,79.02
+26,Auquel,44,Art,75.6
+27,Lutter on intérieur midi,25,Art,75.55
+28,Position mal confiance,30,Histoire,37.66
+29,Général,36,Économie,113.67
+30,Pain été disposer,44,Enfant,22.6
+31,Genre empêcher aucun,35,Économie,39.35
+32,Titre compter,42,Science,22.27
+33,Question soirée chacun,28,Littérature,59.91
+34,Recueillir social jeunesse,47,Enfant,38.97
+35,Herbe,33,Économie,29.65
+36,Chemise sol couper,7,Économie,78.78
+37,Minute tantôt,41,Histoire,76.99
+38,Chez âgé papa,10,Science,93.88
+39,Sujet mine refuser,35,Économie,111.47
+40,Mine arme complet,1,Histoire,45.66
+41,Rencontre chance,2,Informatique,112.2
+42,Malade écouter lier,20,Littérature,16.37
+43,Tôt nature relation,37,Informatique,19.42
+44,Doucement minute engager,32,Économie,17.61
+45,Public quoi tour,49,Histoire,94.24
+46,Boire lui caresser,9,Enfant,62.28
+47,Peur feuille couvrir vide,36,Littérature,39.16
+48,Chaleur envie couper,39,Art,116.08
+49,Pourtant devoir hasard,35,Économie,90.29
+50,Car me,13,Enfant,44.29
+51,Robe premier figurer,43,Enfant,51.08
+52,Prêter venir chasser,34,Art,23.31
+53,Puisque attitude,15,Informatique,47.19
+54,Éprouver posséder,38,Histoire,35.31
+55,Devoir vent,15,Informatique,17.81
+56,Général mesure apercevoir police,41,Informatique,35.18
+57,Fait réflexion,3,Économie,46.35
+58,Lentement épais,33,Littérature,40.63
+59,Condition delà bruit demain,32,Littérature,69.32
+60,Sens violence glace,47,Histoire,73.38
+61,Besoin attirer,16,Économie,62.03
+62,Immense hauteur,27,Littérature,20.38
+63,Gouvernement,43,Art,48.97
+64,Mourir pousser,27,Art,105.02
+65,Esprit entretenir tard,4,Enfant,81.88
+66,Résistance,42,Informatique,16.67
+67,Pluie pensée ville,47,Science,98.07
+68,Passion juge saint,7,Littérature,31.07
+69,Paraître fait,35,Art,25.42
+70,Déjà midi ajouter,12,Science,60.89
+71,Prier annoncer,5,Art,98.88
+72,Chemise vrai public,36,Informatique,15.56
+73,Chair tomber,35,Économie,11.62
+74,Occasion personne,6,Économie,103.36
+75,Lettre aile,11,Art,63.42
+76,Palais religion fort,14,Économie,54.11
+77,Prendre fou l'une,4,Littérature,51.69
+78,Briser oeil fonction geste,25,Science,111.92
+79,Ombre sentir aider,30,Science,56.53
+80,Arriver payer écouter,47,Économie,71.13
+81,Long vêtement transformer,46,Art,27.03
+82,Preuve époque,19,Littérature,116.56
+83,Solitude oreille voile,38,Enfant,69.64
+84,Bien autre,48,Science,16.29
+85,Grain un maintenant personnage,38,Art,65.31
+86,Propre non certainement,34,Littérature,16.26
+87,Fuir,33,Informatique,103.65
+88,Direction déjà ne,5,Histoire,17.48
+89,Calmer train,16,Art,23.19
+90,École avis,37,Littérature,73.68
+91,Mot écarter,3,Histoire,19.02
+92,Impossible joie avec,43,Histoire,72.17
+93,Cours prendre,21,Science,32.47
+94,Durant intérieur,46,Science,36.26
+95,Vaincre pointe,26,Littérature,83.89
+96,Faible droit,20,Art,44.78
+97,Assurer distance cesser,49,Informatique,11.02
+98,Tout bas rendre,40,Histoire,119.57
+99,Situation ouvert course,5,Histoire,33.45
+100,Détail rouge quelque,17,Littérature,112.66
+101,Risquer difficile savoir,5,Littérature,50.65
+102,Vieux ensemble,11,Art,101.71
+103,Tomber tard,46,Science,77.28
+104,Malgré membre chair coin,42,Histoire,10.86
+105,Sous françois rouge,36,Science,112.49
+106,Sur beauté ou,7,Littérature,39.09
+107,Soudain violence,7,Enfant,70.85
+108,Baisser monsieur nature,18,Science,76.53
+109,Muet violent appartement,46,Science,32.4
+110,Travailler soutenir jaune,41,Économie,39.04
+111,Soi prince,32,Science,109.59
+112,Geste endormir dégager,4,Informatique,79.77
+113,Politique mariage île,18,Informatique,10.39
+114,Aile secret sujet lequel,50,Littérature,80.08
+115,Mille rose,17,Littérature,91.54
+116,Armer mouvement résoudre,36,Enfant,57.05
+117,Accepter large renoncer,1,Informatique,18.28
+118,Inspirer,45,Littérature,70.01
+119,Goût fin,24,Histoire,70.78
+120,Décider,28,Littérature,14.6
+121,Froid ce,24,Économie,116.94
+122,Voix voici,3,Science,33.11
+123,Vague lequel,16,Enfant,21.31
+124,Réalité nerveux taille,50,Histoire,107.25
+125,Entre joli,27,Histoire,92.44
+126,Chambre avant,16,Économie,27.88
+127,Poids sous,12,Art,12.73
+128,Aventure vide,48,Science,96.06
+129,Humain souvent,27,Économie,83.69
+130,Mille nécessaire matière,48,Économie,37.3
+131,Siècle large,11,Économie,87.14
+132,Perdre,25,Économie,14.26
+133,Succès refuser guère,31,Littérature,31.95
+134,Lutte tout,30,Science,43.57
+135,Portier toucher,15,Littérature,12.6
+136,Saint construire,13,Art,46.11
+137,Mien drame livre,5,Économie,40.7
+138,Chat même indiquer,42,Histoire,53.96
+139,Poussière derrière,35,Science,113.32
+140,Éclairer bruit moyen garde,8,Science,29.64
+141,Pauvre,17,Informatique,21.92
+142,Léger reculer éclairer,28,Science,90.14
+143,Permettre dont craindre,21,Art,76.68
+144,Animer aussi toit,33,Informatique,52.37
+145,Sens hasard ce,37,Littérature,38.02
+146,Retirer éclat social,46,Art,10.19
+147,Me il aller,35,Enfant,89.14
+148,Devant but,48,Enfant,83.77
+149,Mer,24,Art,17.7
+150,Prochain poète petit,43,Science,78.55
+151,Monter énergie,43,Économie,23.71
+152,Fort accorder retrouver aussitôt,20,Histoire,44.02
+153,Frère avancer,27,Science,54.26
+154,Forcer espérer,19,Histoire,24.0
+155,Énorme secours,27,Enfant,113.44
+156,Frapper ignorer,44,Enfant,109.31
+157,Haut haut,40,Histoire,43.1
+158,Demain camarade,36,Économie,10.04
+159,Moment crise puissance,19,Littérature,57.29
+160,Rester asseoir,38,Histoire,82.02
+161,Libre aventure printemps,30,Art,58.64
+162,Cas bon peuple,14,Histoire,62.05
+163,Exécuter tard,48,Littérature,82.47
+164,Mode rare également,19,Histoire,83.02
+165,Pendant commun maintenant,40,Science,20.27
+166,Gris françois dangereux,49,Littérature,84.01
+167,Journal désir,15,Économie,31.9
+168,Retour vent,2,Informatique,36.93
+169,Ouvrir éprouver cela,31,Histoire,103.47
+170,Posséder question,5,Art,55.59
+171,Tromper désirer,41,Histoire,31.39
+172,Ce,45,Art,64.38
+173,Souffler caresser savoir,16,Littérature,82.17
+174,Tôt voile,1,Économie,104.65
+175,Vision épaule faux,7,Économie,56.77
+176,Prétendre engager,12,Économie,115.38
+177,Dès science,34,Art,15.52
+178,Usage espace sérieux,16,Économie,23.35
+179,Gouvernement nuit risquer,9,Économie,61.11
+180,Acte six maintenir confier,34,Histoire,75.5
+181,Adresser public,49,Art,77.39
+182,Occasion,47,Histoire,56.94
+183,Rapporter après bois,36,Art,108.69
+184,Famille reprendre militaire,48,Économie,62.21
+185,Tendre saison satisfaire,17,Économie,37.2
+186,Poitrine devenir désert droite,41,Science,94.24
+187,Offrir vite encore,34,Art,78.94
+188,Énorme où,18,Art,18.52
+189,Tout par,19,Littérature,39.89
+190,Souffrir trois,21,Histoire,18.86
+191,Beauté abattre,10,Littérature,52.13
+192,Minute soumettre douceur,10,Enfant,33.53
+193,Instinct manier contenir,27,Art,46.4
+194,Train naturellement,30,Art,16.85
+195,Tromper,27,Art,109.53
+196,Chose soutenir retour vieil,38,Enfant,12.15
+197,Embrasser après petit,49,Histoire,51.84
+198,Ferme nouveau,1,Science,42.85
+199,Reposer rien,25,Économie,108.08
+200,Pierre,27,Histoire,92.23

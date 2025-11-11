@@ -1,0 +1,62 @@
+[
+    {
+        "id_bibliotheque": 1,
+        "nom_bibliotheque": "Bibliothèque Baudry",
+        "region": "Tunis",
+        "date_ouverture": "2024-11-27"
+    },
+    {
+        "id_bibliotheque": 2,
+        "nom_bibliotheque": "Bibliothèque Langlois",
+        "region": "Tunis",
+        "date_ouverture": "2019-07-07"
+    },
+    {
+        "id_bibliotheque": 3,
+        "nom_bibliotheque": "Bibliothèque Pineau",
+        "region": "Sousse",
+        "date_ouverture": "2009-01-22"
+    },
+    {
+        "id_bibliotheque": 4,
+        "nom_bibliotheque": "Bibliothèque Chartier",
+        "region": "Sousse",
+        "date_ouverture": "2019-10-21"
+    },
+    {
+        "id_bibliotheque": 5,
+        "nom_bibliotheque": "Bibliothèque David",
+        "region": "Tunis",
+        "date_ouverture": "2024-01-27"
+    },
+    {
+        "id_bibliotheque": 6,
+        "nom_bibliotheque": "Bibliothèque Olivier",
+        "region": "Sousse",
+        "date_ouverture": "2017-04-29"
+    },
+    {
+        "id_bibliotheque": 7,
+        "nom_bibliotheque": "Bibliothèque Berthelot",
+        "region": "Tunis",
+        "date_ouverture": "2022-12-09"
+    },
+    {
+        "id_bibliotheque": 8,
+        "nom_bibliotheque": "Bibliothèque Michel",
+        "region": "Sfax",
+        "date_ouverture": "2006-12-01"
+    },
+    {
+        "id_bibliotheque": 9,
+        "nom_bibliotheque": "Bibliothèque Adam",
+        "region": "Sousse",
+        "date_ouverture": "2022-04-19"
+    },
+    {
+        "id_bibliotheque": 10,
+        "nom_bibliotheque": "Bibliothèque Thomas",
+        "region": "Tunis",
+        "date_ouverture": "2022-04-07"
+    }
+]
