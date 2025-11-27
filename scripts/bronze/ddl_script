@@ -1,0 +1,55 @@
+/*
+===============================================================================
+DDL Script: Create Bronze Tables
+===============================================================================
+Script Purpose:
+    This script creates tables in the 'bronze' schema, dropping existing tables 
+    if they already exist.
+	  Run this script to re-define the DDL structure of 'bronze' Tables
+===============================================================================
+*/
+
+IF OBJECT_ID('bronze.csv_stores', 'U') IS NOT NULL
+    DROP TABLE bronze.csv_stores;
+GO
+CREATE TABLE bronze.csv_stores
+ (
+    store_id INT PRIMARY KEY,
+    store_name VARCHAR(100) NOT NULL,
+    region VARCHAR(50) NOT NULL CHECK (region IN ('Tunis', 'Sousse', 'Sfax')),
+    address VARCHAR(200),
+    manager VARCHAR(100)
+);
+IF OBJECT_ID('bronze.csv_books', 'U') IS NOT NULL
+    DROP TABLE bronze.csv_books;
+GO
+CREATE TABLE bronze.csv_books (
+    book_id INT PRIMARY KEY,
+    title VARCHAR(200) NOT NULL,
+    author VARCHAR(100),
+    genre VARCHAR(50),
+    price DECIMAL(10,2) CHECK (price >= 0),
+    publisher VARCHAR(100)
+);
+IF OBJECT_ID('bronze.csv_customers', 'U') IS NOT NULL
+    DROP TABLE bronze.csv_customers;
+GO
+CREATE TABLE bronze.csv_customers (
+    customer_id INT PRIMARY KEY,
+    first_name VARCHAR(100) NOT NULL,
+    last_name VARCHAR(100) NOT NULL,
+    email VARCHAR(200),
+    phone VARCHAR(20),
+    region VARCHAR(50) CHECK (region IN ('Tunis', 'Sousse', 'Sfax'))
+);
+IF OBJECT_ID('bronze.csv_sales', 'U') IS NOT NULL
+    DROP TABLE bronze.csv_sales;
+GO
+CREATE TABLE bronze.csv_sales (
+    sale_id INT PRIMARY KEY,
+    book_id INT NOT NULL,
+    customer_id INT NOT NULL,
+    store_id INT NOT NULL,
+    quantity INT NOT NULL CHECK (quantity > 0),
+    sale_date DATE NOT NULL
+);
