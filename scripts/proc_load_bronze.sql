@@ -112,3 +112,6 @@ BEGIN
 		PRINT '=========================================='
 	END CATCH
 END
+/* DON'T FORGET TO EXECUTE THIS COMMAND !!!!!!!
+         EXEC bronze.load_bronze;
+*/
